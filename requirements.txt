@@ -32,6 +32,6 @@ six==1.15.0
 trackingmore==0.2
 urllib3==1.25.9
 wcwidth==0.2.5
-Werkzeug==1.0.1
+Werkzeug==3.0.3
 yarl==1.4.2
 zipp==3.4.0
